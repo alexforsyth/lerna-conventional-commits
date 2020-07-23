@@ -1,0 +1,5 @@
+{
+  "name": "@aws-sdk/second-package",
+  "version": "1.0.0",
+  "description": "Another simple package"
+}

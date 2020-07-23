@@ -6,7 +6,7 @@
   "author": "Alex Forsyth <alex-git@amazon.com>",
   "license": "MIT",
   "devDependencies": {
-    "lerna": "3.22.1"
+    "lerna": "^3.22.1"
   },
   "scripts": {
     "conventional-commit": "lerna publish --conventional-commits"
