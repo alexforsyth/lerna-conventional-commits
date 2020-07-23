@@ -9,6 +9,6 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "conventional-commit": "lerna publish --conventional-commits"
+    "conventional-commit": "lerna publish minor --conventional-commits --no-push --skip-npm"
   }
 }
