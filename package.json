@@ -1,0 +1,14 @@
+{
+  "name": "lerna-conventional-commits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alexforsyth/lerna-conventional-commits.git",
+  "author": "Alex Forsyth <alex-git@amazon.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "3.22.1"
+  },
+  "scripts": {
+    "conventional-commit": "lerna publish --conventional-commits"
+  }
+}
